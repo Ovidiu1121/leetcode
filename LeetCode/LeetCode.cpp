@@ -1,7 +1,11 @@
 
 #include <iostream>
+#include "5.h";
+
 
 int main()
 {
-    std::cout << "Hello World!\n";
+
+	solutie();
+
 }
