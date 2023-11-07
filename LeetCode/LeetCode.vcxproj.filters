@@ -68,5 +68,20 @@
     <ClInclude Include="15.h">
       <Filter>Header Files\Top 150</Filter>
     </ClInclude>
+    <ClInclude Include="16.h">
+      <Filter>Header Files\Top 150</Filter>
+    </ClInclude>
+    <ClInclude Include="17.h">
+      <Filter>Header Files\Top 150</Filter>
+    </ClInclude>
+    <ClInclude Include="18.h">
+      <Filter>Header Files\Top 150</Filter>
+    </ClInclude>
+    <ClInclude Include="19.h">
+      <Filter>Header Files\Top 150</Filter>
+    </ClInclude>
+    <ClInclude Include="20.h">
+      <Filter>Header Files\Top 150</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

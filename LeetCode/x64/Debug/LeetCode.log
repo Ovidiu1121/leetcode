@@ -1,4 +1,3 @@
 ﻿  LeetCode.cpp
 C:\Data\leetcode\LeetCode\LeetCode\LeetCode.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Data\leetcode\LeetCode\LeetCode\15.h(34,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   LeetCode.vcxproj -> C:\Data\leetcode\LeetCode\x64\Debug\LeetCode.exe
