@@ -16,6 +16,9 @@
     <Filter Include="Header Files\Top 150">
       <UniqueIdentifier>{a3f1f0bc-288e-4a85-825b-7ab2c9b12050}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\De la 1">
+      <UniqueIdentifier>{42bfd4c7-e62e-4114-b04a-6cd96c5b6bf1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode.cpp">
@@ -97,6 +100,21 @@
     </ClInclude>
     <ClInclude Include="25.h">
       <Filter>Header Files\Top 150</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex4.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex7.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex9.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex1.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex12.h">
+      <Filter>Header Files\De la 1</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

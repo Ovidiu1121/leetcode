@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include "25.h";
+#include "Ex12.h";
 
 
 int main()
