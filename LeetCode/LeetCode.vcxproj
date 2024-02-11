@@ -169,6 +169,11 @@
     <ClInclude Include="9.h" />
     <ClInclude Include="Ex1.h" />
     <ClInclude Include="Ex12.h" />
+    <ClInclude Include="Ex16.h" />
+    <ClInclude Include="Ex19.h" />
+    <ClInclude Include="Ex20.h" />
+    <ClInclude Include="Ex21.h" />
+    <ClInclude Include="Ex24.h" />
     <ClInclude Include="Ex4.h" />
     <ClInclude Include="Ex7.h" />
     <ClInclude Include="Ex9.h" />

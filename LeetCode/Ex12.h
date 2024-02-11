@@ -57,7 +57,7 @@ void RomanToInt(char v[], int d) {
 	m['L'] = 50;
 	m['C'] = 100;
 	m['D'] = 500;
-	m['M'] = 1000;
+	m['M'] = 1000;	
 
 	int k = 0;
 
