@@ -131,5 +131,32 @@
     <ClInclude Include="Ex24.h">
       <Filter>Header Files\De la 1</Filter>
     </ClInclude>
+    <ClInclude Include="Ex25.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex26.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex27.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex33.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex34.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex35.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex38.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex41.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex45.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -174,7 +174,16 @@
     <ClInclude Include="Ex20.h" />
     <ClInclude Include="Ex21.h" />
     <ClInclude Include="Ex24.h" />
+    <ClInclude Include="Ex25.h" />
+    <ClInclude Include="Ex26.h" />
+    <ClInclude Include="Ex27.h" />
+    <ClInclude Include="Ex33.h" />
+    <ClInclude Include="Ex34.h" />
+    <ClInclude Include="Ex35.h" />
+    <ClInclude Include="Ex38.h" />
     <ClInclude Include="Ex4.h" />
+    <ClInclude Include="Ex41.h" />
+    <ClInclude Include="Ex45.h" />
     <ClInclude Include="Ex7.h" />
     <ClInclude Include="Ex9.h" />
   </ItemGroup>
