@@ -189,6 +189,11 @@
     <ClInclude Include="Ex50.h" />
     <ClInclude Include="Ex53.h" />
     <ClInclude Include="Ex54.h" />
+    <ClInclude Include="Ex55.h" />
+    <ClInclude Include="Ex58.h" />
+    <ClInclude Include="Ex59.h" />
+    <ClInclude Include="Ex60.h" />
+    <ClInclude Include="Ex61.h" />
     <ClInclude Include="Ex7.h" />
     <ClInclude Include="Ex9.h" />
   </ItemGroup>
