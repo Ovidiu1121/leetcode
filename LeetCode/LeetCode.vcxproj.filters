@@ -149,9 +149,6 @@
     <ClInclude Include="Ex35.h">
       <Filter>Header Files\De la 1</Filter>
     </ClInclude>
-    <ClInclude Include="Ex38.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Ex41.h">
       <Filter>Header Files\De la 1</Filter>
     </ClInclude>
@@ -186,6 +183,33 @@
       <Filter>Header Files\De la 1</Filter>
     </ClInclude>
     <ClInclude Include="Ex61.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex64.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex66.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex69.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex70.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex38.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex73.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex74.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex75.h">
+      <Filter>Header Files\De la 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex77.h">
       <Filter>Header Files\De la 1</Filter>
     </ClInclude>
   </ItemGroup>

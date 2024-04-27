@@ -80,7 +80,7 @@ void solutie() {
 
     current = head;
     while (current != nullptr) {
-        std::cout << current->val << " ";
+         cout << current->val << " ";
         current = current->next;
     }
 

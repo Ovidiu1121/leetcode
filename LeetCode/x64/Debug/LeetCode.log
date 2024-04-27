@@ -1,3 +1,2 @@
-﻿  LeetCode.cpp
-C:\Data\leetcode\LeetCode\LeetCode\LeetCode.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  LeetCode.vcxproj -> C:\Data\leetcode\LeetCode\x64\Debug\LeetCode.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6006: "link.exe" exited with code 1201.
+LINK : fatal error LNK1201: error writing to program database 'C:\Data\leetcode\LeetCode\x64\Debug\LeetCode.pdb'; check for insufficient disk space, invalid path, or insufficient privilege

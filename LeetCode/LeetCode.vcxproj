@@ -194,7 +194,15 @@
     <ClInclude Include="Ex59.h" />
     <ClInclude Include="Ex60.h" />
     <ClInclude Include="Ex61.h" />
+    <ClInclude Include="Ex64.h" />
+    <ClInclude Include="Ex66.h" />
+    <ClInclude Include="Ex69.h" />
     <ClInclude Include="Ex7.h" />
+    <ClInclude Include="Ex70.h" />
+    <ClInclude Include="Ex73.h" />
+    <ClInclude Include="Ex74.h" />
+    <ClInclude Include="Ex75.h" />
+    <ClInclude Include="Ex77.h" />
     <ClInclude Include="Ex9.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
